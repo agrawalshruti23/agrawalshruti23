@@ -8,7 +8,6 @@
 <h3 align="center">
 Crafting clever solutions, one coffee at a time!</h3>
 
-📫 Feel free to reach me out agrawal.shruti2@northeastern.edu
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalshruti23&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalshruti23" /> </p>
