@@ -12,11 +12,13 @@ Crafting clever solutions, one coffee at a time!</h3>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalshruti23&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalshruti23" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img height="100" width="200" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5px"> </h3> 
 <p align="left">
 <a href="https://linkedin.com/in/shruti-agrawal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-agrawal23/" height="30" width="40" /></a>
 <a href="https://fb.com/shruti.acquarious/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shruti.acquarious/" height="30" width="40" /></a>
+<a href="mailto:agrawal.shruti2@northeastern.edu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -57,15 +59,5 @@ Crafting clever solutions, one coffee at a time!</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/>
 </p>
 
-
-## Connect with me <img height="100" width="200" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-&emsp;
-  <a href="https://www.linkedin.com/in/shruti-agrawal23">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/> 
- </a>
- &emsp;
- <a href="mailto:agrawal.shruti2@northeastern.edu">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
- </a>
 
 
