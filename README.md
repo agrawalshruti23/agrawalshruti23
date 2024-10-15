@@ -9,7 +9,7 @@
 Crafting clever solutions, one coffee at a time!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalshruti23&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalshruti23" /> </p>
 
-<img align="right" alt="coding" width="1200px" src="https://miro.medium.com/v2/resize:fit:1000/0*VlTcqQGkS25mEZAI.gif" /> 
+
 
 <br/><br/><br/><br/><br/><br/><br/>
 
