@@ -11,7 +11,7 @@ Crafting clever solutions, one coffee at a time!</h3>
 
 
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 
 <h3 align="left">Connect with me: <img height="50" width="50" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="20px"> </h3> 
