@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Shruti</h1></summary>
-    <h4>Grad Student @Northeastern University, Boston, MA | Full Stack Software Engineer | SDE Co-op @Philips (USA) | ex-SDE Full Time @Commonwealth Bank of Australia | ex-SDE Full Time @Infosys | Java | Python | Spring | SpringBoot | AWS | GCP | DevOps | MySQL | Kafka | RabbitMQ | Redis | PostgreSQL | CI/CD </h4>
+    <h4>Grad Student @Northeastern University, Boston, MA | Full Stack Software Engineer | SDE Co-op @Philips - Cambridge, MA | ex-SDE @Commonwealth Bank of Australia | ex-SDE @Infosys | Java | Python | Spring | SpringBoot | AWS | GCP | DevOps | MySQL | Kafka | RabbitMQ | Redis | PostgreSQL | CI/CD </h4>
   </ul>
 </div>
 
